@@ -1,5 +1,3 @@
-# Quapitestkarateframework-main
-
 # Introduction
 
 Karate is an open-source API testing framework that enables test automation using Behavior-Driven Development (BDD). It is built on top of Cucumber and allows for writing tests in a simple, Gherkin-based syntax without requiring Java coding.
