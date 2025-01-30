@@ -84,6 +84,8 @@ mvn clean test
 
 mvn clean test
 
+## Report generated at
+/target/karate-reports/karate-summary.html
 
 ## Test Data Management
 All test data is maintained in JSON files within the src/test/java/ directory. 
